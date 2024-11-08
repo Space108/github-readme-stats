@@ -16,7 +16,7 @@ export const themes = {
     title_color: "006AFF",
     icon_color: "0579C3",
     text_color: "417E87",
-    bg_color: "ffffff00",
+    bg_color: "#B0E0E6",
   },
   shadow_red: {
     title_color: "9A0000",
